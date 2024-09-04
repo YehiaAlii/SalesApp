@@ -1,0 +1,3 @@
+ 1 015555|Yehia Ali|Minya El-Qamh|company	
+ 2 0122222|Dell|Indianna, America|company	
+ 3 0111111|Microsoft |NYC|company	
